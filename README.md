@@ -22,3 +22,9 @@ We sought to confirm our findings by using statistical evidence. The key-influen
 Conclusion
 
 After analyzing our statistical evidence, we decided to reject our initial hypothesis that restriction on gathering is an effective policy but going forth with school closings and facial coverings. We found that the school closing and facial coverings policy kept deaths and cases growth rates below the desired threshold, while also functioning at a low restrictive level
+
+Sources
+“Covid-19 Provisional Counts.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 27 Sept. 2023, www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm#SexAndAge. 
+News, Kyodo. “PM Abe Asks All Schools in Japan to Temporarily Close over Coronavirus.” Kyodo News+, KYODO NEWS+, 27 Feb. 2020, english.kyodonews.net/news/2020/02/c3c57bbce11d-breaking-news-govt-will-ask-all-schools-in-japan-to-shut-for-virus-fears-abe.html. 
+
+
